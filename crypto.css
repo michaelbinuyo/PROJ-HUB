@@ -1,0 +1,54 @@
+/* body {
+    background-color: aliceblue;
+} */
+
+.container {
+    background-color: rgb(1, 114, 74);
+    width: 50%;
+    /* text-align: center; */
+    box-sizing: border-box;
+    margin: auto;
+}
+
+.desc_wrapper {
+    /* margin: 20px auto; */
+    padding: 20px 0;
+    display: flex;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: smaller;
+}
+
+.suggest_inp {
+    /* margin: 20px; */
+    margin-top: 40px;
+    /* margin-left: 200px; */
+}
+
+.btn {
+    background-color: orangered;
+    border-style: none;
+    padding: 7px;
+    color: white;
+    width: 100%;
+    border-radius: 5px;
+    font-size: 0.7rem;
+}
+
+.txt {
+    padding: 7px;
+    color: white;
+    background-color: rgb(48, 109, 88);
+    border-radius: 5px;
+    font-size: 0.8rem;
+}
+
+.FAQ {
+    text-transform: uppercase;
+    /* margin-right: 200px; */
+    font-size: 0.6rem;
+}
+
+.tracking_crypto {
+    font-size: 1.6rem;
+}
